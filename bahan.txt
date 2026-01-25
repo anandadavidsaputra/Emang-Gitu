@@ -1,0 +1,201 @@
+kalo sama diliat dulu SCORE -> FREKUENSI -> MIX
+
+# 🎬 GENRE HIDUP
+
+| Kode | Pilihan       | Deskripsi                                                                 |
+| ---- | ------------- | ------------------------------------------------------------------------- |
+| G1   | Romance       | Hidup lu isinya hati mulu, dikit-dikit baper, kisah cinta jadi plot utama |
+| G2   | Comedy        | Hidup kayak sitkom, niat serius malah jadi bahan ketawaan semesta         |
+| G3   | Slice of Life | Hidup adem, ngalir aja, ga banyak drama tapi tetep meaningful             |
+| G4   | Action        | Hidup lu mode kejar target terus, sibuk, ambisi, gerak mulu               |
+| G5   | Drama         | Hidup penuh konflik, emosi naik turun, vibes sinetron jam prime time      |
+
+---
+
+# 🧠 KEPRIBADIAN
+
+| Kode | Pilihan              | Deskripsi                                                        |
+| ---- | -------------------- | ---------------------------------------------------------------- |
+| P1   | The Social Butterfly | Ga bisa diem, ketemu orang langsung nyala energinya              |
+| P2   | The Quiet Thinker    | Lebih banyak mikir daripada ngomong, dalem tapi kalem            |
+| P3   | The Achiever         | Hidup = misi. Target ga kelar rasanya dosa                       |
+| P4   | The Easy-Going       | Santuy parah, jarang panik, “yaudah lah ya” adalah prinsip hidup |
+| P5   | The Worrier          | Otak ga ada tombol off, overthinking level dewa                  |
+
+---
+
+# 🌌 TUJUAN HIDUP
+
+| Kode | Pilihan              | Deskripsi                                               |
+| ---- | -------------------- | ------------------------------------------------------- |
+| T1   | The Legacy Builder   | Pengen hidup settle, punya keluarga, ninggalin “jejak”  |
+| T2   | The Wealth Chaser    | Duit dulu bos, biar hidup ga kejar-kejaran sama tagihan |
+| T3   | The Stability Seeker | Ga neko-neko, yang penting hidup tenang, aman, ga ribet |
+| T4   | The Impact Maker     | Pengen hidup lu ada gunanya buat orang lain             |
+| T5   | The Freedom Finder   | Anti dikekang, pengen hidup bebas, ngikutin passion     |
+
+---
+
+# 🎭 PERAN DI CERITA
+
+| Kode | Pilihan            | Deskripsi                                        |
+| ---- | ------------------ | ------------------------------------------------ |
+| R1   | The Main Character | Aura MC kuat, kejadian selalu muter di hidup lu  |
+| R2   | The Support System | Tempat curhat nasional, lu penopang banyak orang |
+| R3   | The Lone Wolf      | Biasa jalan sendiri, ga terlalu butuh rame-rame  |
+| R4   | The Hidden Hero    | Ga banyak gaya, tapi impact lu kerasa banget     |
+| R5   | The Wild Card      | Susah ditebak, bisa bikin plot twist kapan aja   |
+
+---
+
+# 🌍 DUNIA CERITAMU
+
+| Kode | Pilihan             | Deskripsi                                         |
+| ---- | ------------------- | ------------------------------------------------- |
+| W1   | Dunia Realistis     | Hidup normal, problem juga paket standar manusia  |
+| W2   | Dunia Penuh Tekanan | Saingan banyak, tuntutan tinggi, hidup rasa lomba |
+| W3   | Dunia Penuh Peluang | Banyak kesempatan muncul, tinggal berani ambil    |
+| W4   | Dunia Emosional     | Hubungan & perasaan lebih ribet dari WiFi kosan   |
+| W5   | Dunia Misterius     | Hidup lu banyak “loh kok bisa?” moment            |
+
+15 SOALNYA
+
+🎬 GENRE HIDUP
+1️⃣ (1.0)
+
+Waktu senggang, kamu paling suka:
+A. Ngobrol atau bareng orang yang kamu sayang → G1
+B. Bercanda & ketawa bareng teman → G2
+C. Santai, istirahat, nikmatin waktu sendiri → G3
+D. Ngerjain hal yang bikin kamu maju → G4
+E. Mikirin banyak hal tentang hidup → G5
+
+2️⃣ (1.2)
+
+Kalau hidupmu jadi cerita, isinya paling banyak tentang:
+A. Hubungan dan perasaan → G1
+B. Kejadian lucu sehari-hari → G2
+C. Kegiatan biasa tapi bermakna → G3
+D. Tantangan dan kesibukan → G4
+E. Masalah dan konflik → G5
+
+3️⃣ (1.4)
+
+Hal yang bikin hidup terasa berarti:
+A. Kedekatan dengan orang lain → G1
+B. Bisa tertawa lepas → G2
+C. Hidup tenang dan seimbang → G3
+D. Berhasil melewati tantangan → G4
+E. Mengalami momen emosional → G5
+
+🧠 KEPRIBADIAN
+4️⃣ (1.0)
+
+Saat kumpul orang:
+A. Kamu aktif ngobrol → P1
+B. Lebih banyak mendengar → P2
+C. Bahas rencana atau tujuan → P3
+D. Ikut suasana aja → P4
+E. Banyak mikir dalam hati → P5
+
+5️⃣ (1.2)
+
+Kalau ada masalah:
+A. Cerita ke orang → P1
+B. Dipikirkan sendiri → P2
+C. Langsung cari solusi → P3
+D. Coba tenang dulu → P4
+E. Terus kepikiran → P5
+
+6️⃣ (1.4)
+
+Yang paling mirip dengan dirimu:
+A. Suka bergaul → P1
+B. Pendiam tapi dalam → P2
+C. Punya banyak target → P3
+D. Santai orangnya → P4
+E. Sering khawatir → P5
+
+🌌 TUJUAN HIDUP
+7️⃣ (1.0)
+
+Di masa depan kamu ingin:
+A. Punya keluarga bahagia → T1
+B. Hidup berkecukupan secara finansial → T2
+C. Hidup tenang dan aman → T3
+D. Bermanfaat untuk orang lain → T4
+E. Bebas menentukan hidup sendiri → T5
+
+8️⃣ (1.2)
+
+Menurutmu hidup sukses itu:
+A. Keluarga rukun → T1
+B. Keuangan stabil → T2
+C. Hidup damai → T3
+D. Bisa membantu banyak orang → T4
+E. Tidak terikat aturan yang mengekang → T5
+
+9️⃣ (1.4)
+
+Yang paling kamu kejar sekarang:
+A. Hubungan jangka panjang → T1
+B. Karier dan uang → T2
+C. Stabilitas hidup → T3
+D. Memberi dampak baik → T4
+E. Kebebasan waktu & pilihan → T5
+
+🎭 PERAN DI CERITA
+🔟 (1.0)
+
+Dalam kelompok:
+A. Kamu sering jadi pusat perhatian → R1
+B. Sering membantu orang lain → R2
+C. Lebih suka sendiri → R3
+D. Kerja banyak tapi jarang disorot → R4
+E. Kadang bikin suasana berubah → R5
+
+1️⃣1️⃣ (1.2)
+
+Orang biasanya melihatmu sebagai:
+A. Tokoh utama → R1
+B. Tempat cerita → R2
+C. Orang yang mandiri → R3
+D. Penolong diam-diam → R4
+E. Orang yang unik → R5
+
+1️⃣2️⃣ (1.4)
+
+Kalau hidupmu film, kamu itu:
+A. Fokus utama cerita → R1
+B. Pendukung yang penting → R2
+C. Jalan cerita sendiri → R3
+D. Pahlawan tanpa banyak bicara → R4
+E. Karakter penuh kejutan → R5
+
+🌍 DUNIA CERITAMU
+1️⃣3️⃣ (1.0)
+
+Lingkungan hidupmu terasa:
+A. Biasa dan nyata → W1
+B. Banyak tekanan → W2
+C. Banyak kesempatan → W3
+D. Penuh perasaan → W4
+E. Banyak hal tak terduga → W5
+
+1️⃣4️⃣ (1.2)
+
+Yang sering kamu rasakan:
+A. Hidup berjalan normal → W1
+B. Harus bersaing terus → W2
+C. Sering ada peluang baru → W3
+D. Hubungan dengan orang lain rumit → W4
+E. Sering ada kejadian aneh → W5
+
+1️⃣5️⃣ (1.4)
+
+Menurutmu hidup itu seperti:
+A. Cerita kehidupan nyata → W1
+B. Tempat berjuang → W2
+C. Pintu kesempatan → W3
+D. Drama perasaan → W4
+E. Misteri yang belum terpecahkan → W5
